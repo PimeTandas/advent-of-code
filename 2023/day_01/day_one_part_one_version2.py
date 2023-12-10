@@ -1,4 +1,4 @@
-file = "day_01_input_1.txt"
+file = "day_01_input.txt"
 numbers = []
 
 for line in open(file):

@@ -1,4 +1,4 @@
-file = open("day_01_input_1.txt", 'r')
+file = open("day_01_input.txt", 'r')
 count = 0
 num = 0
 total_num = 0
